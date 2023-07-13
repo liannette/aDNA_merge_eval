@@ -1,0 +1,2 @@
+program,filename,nfrags,fraglen_distribution,quality_shift,total_sequences,total_reads,dropped_reads,edit_distances
+fastp,gen_n_1000000_dist_A9180_qs_-13_merged.fq.gz,1000000,A9180,-13,999996,85420,914580,0:32464 1:30968 2:15181 3:5030 4:1341 5:339 6:65 7:22 8:6 9:3 30:1

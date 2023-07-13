@@ -1,0 +1,11 @@
+genotypename: /home/projects2/DNA_reconstruct/default_minlen_minoverlap/pca_popgen/output/eigenstrat/HO_HG002_HG005.geno
+snpname: /home/projects2/DNA_reconstruct/default_minlen_minoverlap/pca_popgen/output/eigenstrat/HO_HG002_HG005.snp
+indivname: /home/projects2/DNA_reconstruct/default_minlen_minoverlap/pca_popgen/output/eigenstrat/HO_HG002_HG005.ind
+evecoutname: /home/projects2/DNA_reconstruct/default_minlen_minoverlap/pca_popgen/output/smartPCA/eurasia.evec
+evaloutname: /home/projects2/DNA_reconstruct/default_minlen_minoverlap/pca_popgen/output/smartPCA/eurasia.eval
+poplistname: /home/projects2/DNA_reconstruct/default_minlen_minoverlap/pca_popgen/input/smartPCA/poplists/poplist_eurasia.txt
+badsnpname: /home/projects2/DNA_reconstruct/default_minlen_minoverlap/pca_popgen/input/human_origins_genotype_dataset/exclude.snp
+lsqproject: YES
+newshrink:  YES
+numoutevec: 10
+numthreads: 20

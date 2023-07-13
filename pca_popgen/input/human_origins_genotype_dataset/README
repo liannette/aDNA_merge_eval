@@ -1,0 +1,43 @@
+---------------------------------------------------------
+Human Origins genotype dataset for Lazaridis et al. (2014)
+----------------------------------------------------------
+
+There are three main datasets in this release:
+
+release.* includes all individuals (including WGA ones and those dropped from the dataset during curation)
+data.* is the curated dataset used for all analyses in Lazaridis et al. (2014). It includes terse names for populations (e.g., "Spanish")
+vdata.* is the same as data.*, but it includes verbose names for populations (e.g., "Spanish_Andalucia_IBS", "Spanish_Aragon_IBS", etc.)
+
+Each dataset consists of three files in PACKEDANCESTRYMAP format:
+.geno	Genotype file
+.ind	Individual file
+.snp 	SNP file
+
+These can be used with standard tools (e.g., ADMIXTOOLS, EIGENSOFT, ALDER, MixMapper) or converted to other formats using the "convertf" utility of EIGENSOFT (http://www.hsph.harvard.edu/alkes-price/software/).
+
+There are also thirteen panels in directories panel*/ for thirteen different ascertainments as discussed in Patterson et al. 2012:
+
+Panel#	Ascertainment
+1	French
+2	Han
+3	Papuan1
+4	San
+5	Yoruba
+6	Mbuti
+7	Karitiana
+8	Sardinian
+9	Melanesian
+10	Cambodian
+11	Mongolian
+12	Papuan2
+13	Denisova-San
+
+The "Stuttgart" early European farmer is labeled LBK380 in these datasets.
+
+More information can be found in Supplementary Information, section 9 of Lazaridis et al. (2014). 
+The full dataset used for analysis includes some additional populations; please consult Supplementary Information, section 9 of Lazaridis et al. (2014) for information on how to obtain this.
+
+REFERENCES
+
+Patterson N, Moorjani P, Luo Y, Mallick S, Rohland N, Zhan Y, Genschoreck T, Webster T, Reich D (2012) Ancient admixture in human history. Genetics 192, 1065-1093 
+Lazaridis I et al. (2014) Ancient human genomes suggest three ancestral populations for present-day Europeans. Nature, doi:10.1038/nature13673

@@ -1,0 +1,2 @@
+program,filename,nfrags,fraglen,total_sequences,total_reads,dropped_reads,avg_divergence_per_nt,edit_distances
+bbmerge,gen_n1000000_l211_merged.fq.gz,1000000,211,999920,959499,40501,0.129,0:731105 1:199119 2:26692 3:2412 4:156 5:15

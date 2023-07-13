@@ -1,0 +1,2 @@
+program,filename,nfrags,fraglen_distribution,quality_shift,total_sequences,total_reads,dropped_reads,edit_distances
+seqtk_adna_trim,gen_n_1000000_dist_chagyrskaya8_qs_-6_merged.fq.gz,1000000,chagyrskaya8,-6,999998,985418,14582,0:920713 1:59508 2:4312 3:700 4:133 5:35 6:10 7:1 12:1 36:1 42:1 77:1 95:1 192:1

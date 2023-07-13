@@ -1,0 +1,29 @@
+wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5A1-24481688/5A1_S5_L001_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5A1-24481688/5A1_S5_L002_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5A2-24481689/5A2_S6_L001_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5A2-24481689/5A2_S6_L002_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5B1-24481690/5B1_S7_L001_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5B1-24481690/5B1_S7_L002_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5B2-24481691/5B2_S8_L001_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5B2-24481691/5B2_S8_L002_R1_001.fastq.gz
+wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5C1-24481692/5C1_S9_L001_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5C1-24481692/5C1_S9_L002_R1_001.fastq.gz
+wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5C2-24481693/5C2_S10_L001_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5C2-24481693/5C2_S10_L002_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5D1-24481694/5D1_S11_L001_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5D1-24481694/5D1_S11_L002_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5D2-24481695/5D2_S12_L001_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5D2-24481695/5D2_S12_L002_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5F1-24481684/5F1_S1_L001_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5F1-24481684/5F1_S1_L002_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5F2-24481685/5F2_S2_L001_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5F2-24481685/5F2_S2_L002_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5L1-24481686/5L1_S3_L001_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5L1-24481686/5L1_S3_L002_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5L2-24481687/5L2_S4_L001_R1_001.fastq.gz
+# wget ftp://ftp-trace.ncbi.nih.gov/ReferenceSamples/giab/data/ChineseTrio/HG005_NA24631_son/HG005_NA24631_son_HiSeq_300x/basespace_250bps_fastqs/150424_HG005_Homogeneity_02_FCB-22108088/5L2-24481687/5L2_S4_L002_R1_001.fastq.gz	
+
+md5sum * > md5sums.txt
+# fastqc -o fastqc *
+
+fastqc -o fastqc 5A1_S5_L001_R1_001.fastq.gz 5C1_S9_L001_R1_001.fastq.gz 5C2_S10_L001_R1_001.fastq.gz
